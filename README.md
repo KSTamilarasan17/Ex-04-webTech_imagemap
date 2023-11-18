@@ -121,7 +121,14 @@ temple.html:
 ```
 
 # Output:
-![out5](https://github.com/KSTamilarasan17/Ex-04-webTech_imagemap/assets/138849236/04b5e9b5-3a98-42ab-b3c1-7aef47131f51)
+![out1](https://github.com/KSTamilarasan17/Ex-04-webTech_imagemap/assets/138849236/87cfe8d3-2875-44a2-a778-1d001f203566)
+![out2](https://github.com/KSTamilarasan17/Ex-04-webTech_imagemap/assets/138849236/2b7ad354-c012-491b-8513-c5a70d388c72)
+![out3](https://github.com/KSTamilarasan17/Ex-04-webTech_imagemap/assets/138849236/42392865-4154-462f-a19b-1df092073987)
+![out4](https://github.com/KSTamilarasan17/Ex-04-webTech_imagemap/assets/138849236/a3b06a16-70d4-4495-a635-5142bfe9dc98)
+![out5](https://github.com/KSTamilarasan17/Ex-04-webTech_imagemap/assets/138849236/c7e4d76b-9cfa-41f4-b04c-3cd0bd12febf)
+![out6](https://github.com/KSTamilarasan17/Ex-04-webTech_imagemap/assets/138849236/063c72cc-256e-438e-879f-6c35f0c5815b)
+
+
 
 
 # Result:
